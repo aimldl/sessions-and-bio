@@ -101,14 +101,15 @@ ICIO 2014 (Invited Talk)
 ## Conferences
 WCCI 2012, IJCNN 2009, SMC 2009, CIC 2002
 
-# Patents
+# Technical Writing
+## Patents
 3 granted patents in AI and smart systems
 
 - [Ontology Based Intelligent Smart Home System and Method](https://patents.google.com/patent/KR102566607B1/en?q=(%22Ontology+Based+Intelligent+Smart+Home+System+and+Method%22)&oq=%22Ontology+Based+Intelligent+Smart+Home+System+and+Method%22), 2023.08.09, 1025666070000
 - [Spoken Language Identification Apparatus and Method in Multilingual Environment](https://patents.google.com/patent/KR20210081166A/en), '21, KR20210081166A
 - [Apparatus and Method for Displaying Electric Program Guide and Server](https://patents.google.com/patent/KR20140083682A/en?q=(%22Apparatus+and+Method+for+Displaying+Electric+Program+Guide+and+Server%22)&oq=%22Apparatus+and+Method+for+Displaying+Electric+Program+Guide+and+Server%22), 2014.07.04, KR20140083682A
 
-# Publications
+## Publications
 Peer-reviewed publications in Neural Networks and Wireless Networks
 - [Depth-Controllable Very Deep Super-Resolution Network](https://ieeexplore.ieee.org/document/8851874) (‘19)
 - [Practical Perspective of Artificial Neural Networks as a Function Approximator, not an Almighty Black Box](https://ieeexplore.ieee.org/document/6950561) (‘14)
