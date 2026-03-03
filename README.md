@@ -99,7 +99,7 @@ Engaged diverse audiences (from academic scholars to industry leaders) across ma
 
 # Past Sessions
 ## Executive Engagements (C-level and senior business leaders)
-- Briefings: MTS (2019), China mobile-NTT Docomo (2017, 2018), AI Strategy Committee (2017), SoundHound (2017), Daimler-Benz (2016), 
+- Briefings: Kakao Entertainment (2023), MTS (2019), China mobile-NTT Docomo (2017, 2018), AI Strategy Committee (2017), SoundHound (2017), Daimler-Benz (2016), 
 - Demos: Automatic LID (2018), GiGa Genie services (2016), OTV recommendation (2014), OTV dialog (2013)
 
 ## Conferences
