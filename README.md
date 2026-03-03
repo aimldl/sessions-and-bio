@@ -14,8 +14,6 @@ Make the large scale machine learning task easier and understandable. So more us
 </table>
 
 # Bio
-T Kim, PhD, Machine Learning Solution Lead, Google Cloud
-
 T Kim is a Machine Learning Solution Lead at Google Cloud where he helps users leverage the power of  AI Hypercomputer, Vertex AI, and Generative AI to build innovative technologies and solutions. Leveraging his successful track record in leading global-scale AI projects, he advises top enterprises in the APAC (Asia Pacific) region, driving business innovation through advanced AI/ML and Generative AI solutions. As a leader of the Google APAC AI/ML Community, he is dedicated to disseminating cutting-edge technologies and enhancing the technical capabilities of his colleagues in APAC. With over 20 years of experience in AI/ML and Gen AI, his passion lies in creating a world where more people can benefit from technology.
 
 Prior to joining Google, T served as a Principal Research Scientist at KT Institute of Convergence Technology where he conducted and led research and development in Natural Language Processing and Deep Learning. He played a pivotal role in the initial dialogue design for KT's AI speaker "Gigagenie" and was a founding member of the KT AI Tech Center. He began his professional career at Sony Korea's B&P division, gaining valuable experience in technical sales for professional video/audio products, which provided him with a foundational understanding of the nexus between technology and business.
