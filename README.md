@@ -86,7 +86,7 @@ Engaged diverse audiences (from academic scholars to industry leaders) across ma
 * Cloud Innovation Day for LG & LX [2023](https://docs.google.com/spreadsheets/d/1e1tgv9jYYFMiHOjhrwQTOIbTTzRvKXYSw5_tQGJbos8/edit?gid=518610642#gid=518610642), [How to Transform Your Business with Generative AI](https://docs.google.com/presentation/d/1xitGBeYxItyqBkCeNb9JH56x_dUHmYePka6Ir_D5gWo/edit?slide=id.g257021ab479_0_4183&resourcekey=0-SEeGphNTGNMzGiX_m2sCnQ#slide=id.g257021ab479_0_4183), Jun 2023, Seoul, South Korea
   * Delivered Google Cloud’s GenAI roadmap, highlighting practical applications for business innovation
 * Executive Briefing (EBC) | [Machine Learning at Scale: Migration Journey, Reference Architecture, and Lessons Learned](https://docs.google.com/presentation/d/1ZD9wn4EfWq2jUj0OpkOQvEL27INW9iO-U04kH9doPQA/edit?slide=id.g205e25b6a9f_0_240#slide=id.g205e25b6a9f_0_240), Feb 2023
-
+* Cloud Innovation Week for Kakao [2023](https://docs.google.com/document/d/1Taptwv0ofAhwKXpaoPdH4tTPxxkxZaK9CcsQPnWXBX4/edit?tab=t.0), [AlphaGo부터 LaMDA까지. 구글의 AI/ML 컴퓨팅 인프라 Cloud TPU 따라잡기](https://docs.google.com/presentation/d/137kJtsntKxSC2KTJatYXHr3s0slHpYq__Hp4-yv9o4I/edit?slide=id.p#slide=id.p), Mar 2023, Seoul, South Korea
 
 # Blog posts, videos and demos
 ## 2024
