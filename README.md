@@ -1,12 +1,11 @@
-# Bio and Sessions
+# Bio
+T Kim, Ph.D. | 김태형, 공학박사 | 金 泰亨 (キム テヒョン) 博士（工学）
+
+Machine Learning Solution Lead, Google Cloud
 
 ## Mission Statement
 Make the large scale machine learning task easier and understandable. So more users can use it readily, create innovative technologies, and eventually make the world a better place. 
 
-## Bio
-T Kim, Ph.D. | 김태형, 공학박사 | 金 泰亨 (キム テヒョン) 博士（工学）
-
-Machine Learning Solution Lead, Google Cloud
 
 <details open>
 <summary>🇺🇸 English</summary>
