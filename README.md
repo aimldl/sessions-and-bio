@@ -117,6 +117,9 @@ Taught for 5 semesters as a course instructor at University of Missouri (2006, 2
 ## 2024
 
 ### Demos
+TODO: Relocated these notebooks to my Google Cloud repository
+
+[Beyond Text: Exploring Multimodality of Gemini](https://github.com/aimldl/genai/tree/main/devfest-cloud-2024)
 * Explore the capabilities of Gemini 1.5 Pro using Vertex AI SDK, covering text translation (English-Korean), video insights, and multimodal inputs (text, image, video) .
   🇰🇷 멀티모달 방식의 이해를 위한 [Vertex AI Gemini 1.5 Pro 활용 가이드.ipynb](https://github.com/aimldl/genai/blob/main/devfest-cloud-2024/Vertex%20AI%20Gemini%201_5%20Pro%20%ED%99%9C%EC%9A%A9%20%EA%B0%80%EC%9D%B4%EB%93%9C.ipynb)
 * Video: Gemini 1.5 Video Understanding Demo. An emerging showcase demonstrating the model's ability to interpret and explain video sequences for a live audience.  
@@ -125,6 +128,9 @@ Taught for 5 semesters as a course instructor at University of Missouri (2006, 2
 * Building Multimodal Q&A System via Multimodal RAG: A Vertex AI-based hands-on demo.
     [Vertex AI 기반 멀티모달 Q&A 시스템 구축하기.ipynb](https://github.com/aimldl/genai/blob/main/devfest-cloud-2024/Vertex%20AI%20%EA%B8%B0%EB%B0%98%20%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC%20Q%26A%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.ipynb)
 
+LLM > EXAONE 3.0
+* [Getting Started with EXAONE 3.0](https://github.com/aimldl/genai/blob/main/exaone/Getting%20Started%20with%20EXAONE%203.0.ipynb)
+* [Modularize EXAONE 3.0 to Test it Quickly](https://github.com/aimldl/genai/blob/main/exaone/Modularize%20EXAONE%203.0.ipynb)
 
 
 ## 2022
