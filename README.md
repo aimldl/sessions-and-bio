@@ -111,7 +111,6 @@ WCCI 2012, IJCNN 2009, SMC 2009, CIC 2002
 - [Modified Cellular Simultaneous Recurrent Networks with Cellular Particle Swarm Optimization](https://ieeexplore.ieee.org/document/6252845) (‘12)
 - [Spatial-Temporal Reasoning Applications of Computational Intelligence in the Game of Go and Computer Networks](https://apps.dtic.mil/sti/tr/pdf/ADA571435.pdf) (‘12)
 - [Recursive and Nonrecursive Algorithms for the Group Size Counting Problem in Computer Go](https://asmedigitalcollection.asme.org/ebooks/book/149/chapter-abstract/30386/Recursive-and-Non-Recursive-Algorithms-for-the?redirectedFrom=PDF) (‘10)
-- [Investigating the Properties of Cellular Simultaneous Recurrent Networks](https://cs.mst.edu/media/academic/cs/documents/newsletters/2010_Newsletter.pdf) (‘09)
 - [Reconfigurable Disruption Tolerant Routing via Reinforcement Learning](https://dl.acm.org/doi/10.5555/1704555.1704685) (‘09)
 - [Robotic Go: Exploring a Different Perspective on Human-Computer Interaction with the Game of Go](https://ieeexplore.ieee.org/document/5346385) (‘09)
 - [Dynamic Offset Contention Window Algorithm for Wireless MAC in 802.11e based Wireless Home Networks](https://dl.acm.org/doi/10.5555/1766911.1766935) (‘02)
