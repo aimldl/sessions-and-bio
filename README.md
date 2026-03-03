@@ -71,7 +71,8 @@ ICIO 2014 (Invited Talk)
   - Blog: [Fast-Tracking AI ML to gain a competitive edge](https://cio.economictimes.indiatimes.com/news/corporate-news/fast-tracking-ai-ml-to-gain-a-competitive-edge/95400430)
   - Video: [Fast-Tracking AI ML to gain a competitive edge, 24:11-:1:04:12]
 
-## Session
+## Developer Events
+- Gen AI Academy (scheduled Mar 2026)
 - [DevFest 2024 Seoul](https://gdg.community.dev/events/details/google-gdg-seoul-presents-devfest-2024-seoul/), Beyond Text: Exploring Multimodality of Gemini [slides](https://docs.google.com/presentation/d/1w4EfjGtkX3w11cJMeZ9SW16RfP8oXeg4mqdMKOGw8EA/edit?resourcekey=0-nFDTut92Tc7XvwM5i7HhSg&slide=id.g228dee1d198_1_277#slide=id.g228dee1d198_1_277), [.pdf](https://github.com/aimldl/genai/blob/main/devfest-cloud-2024/Beyond%20Text_%20Exploring%20Multimodality%20of%20Gemini%20(released).pdf), 2024.
   * Presentation and demo at a local event organized by GDG (Google Developer Groups)
 - Cloud Summit Korea (2024)
