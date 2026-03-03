@@ -82,8 +82,7 @@ Engaged diverse audiences (from academic scholars to industry leaders) across ma
 
 ## Online Events
 * Keynote: [Fast-Tracking AI/ML to Gain a Competitive Edge](https://cio.economictimes.indiatimes.com/news/corporate-news/fast-tracking-ai-ml-to-gain-a-competitive-edge/95400430) | Re-imagining Tech, Nov 2022
-    * [Watch Video](https://youtu.be/UY5cjqsJp8Q?si=hObAqi5uKSUGHH3n&t=1451) [24:11–1:04:12]
-    * Keynote Session on Vertex NAS (Neural Architecture Search)
+    * [Watch Video](https://youtu.be/UY5cjqsJp8Q?si=hObAqi5uKSUGHH3n&t=1451) [24:11–1:04:12] on Vertex NAS (Neural Architecture Search)
 * Google Cloud Monthly Advanced Workshop | [Demystifying Cloud TPU](https://docs.google.com/presentation/d/1QoQMFAYz4IzOMmlGPaXXAiRskQQXh8p5UUrKYci5S-Y/edit#slide=id.gb4a3fac3a8_7_1911), Aug 2022
 * Data Cloud & Applied ML Summit | [What’s New in AI? Update on TPU and Vertex AI](https://docs.google.com/presentation/d/1vanmR1c-fRIOcE4gn9rv-Or3oTRD5QkS9IQ0xwipxWQ/edit?slide=id.gce8c4a9192_1_6#slide=id.gce8c4a9192_1_6), Jun 2022
 
