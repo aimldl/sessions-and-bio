@@ -4,7 +4,7 @@ Make the large scale machine learning task easier and understandable. So more us
 <table>
   <tr>
     <td width="200">
-      <img src="T_Kim-profile_photo.jpg" width="200" style="border-radius: 50%;" alt="T Kim Profile Photo">
+      <img src="images/T_Kim-profile_photo.JPG" width="200" style="border-radius: 50%;" alt="T Kim Profile Photo">
     </td>
     <td style="vertical-align: middle;">
       <h2 style="border-bottom: none; margin: 0;">T Kim, Ph.D.</h2>
