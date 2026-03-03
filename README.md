@@ -54,9 +54,29 @@ Google入社以前は、KT融合技術院の主席研究員として、自然言
 - Hatena blog: [aimldl](https://blog.hatena.ne.jp/register)
 - Youtube: [@tkim6576](https://www.youtube.com/@tkim6576)
 
-# Sessions
+# Selected Speaking Engagements
+Engaged diverse audiences (from academic scholars to industry leaders) across major global and local tech platforms and research conferences.
 
-Engaged diverse audiences (from academic scholars to industry leaders) across major global and local tech platforms.
+## Academic Conferences
+* **Keynote: [Evolution of Intelligence: How Today Charts the Course from Past to Future](https://docs.google.com/presentation/d/1-MKmefF086l-0kMB4DGOJNsRvl4bOmE_WGioip6XuMU/edit?usp=drive_web&ouid=102469482706489227148)** | [ICEIC 2026](https://iceic.org/2026/pages/keynote.vm), Jan 2026, Macau
+    * *Focus: From Generative Models to Agentic Orchestration.*
+* **Tutorial: [Demystifying Cloud TPU](https://docs.google.com/presentation/d/1UuLIZRqIYxFio3vF3h6ypM4X2dGEM-M326y9bvB5WBQ/edit?slide=id.g176900c0da3_0_0#slide=id.g176900c0da3_0_0)** | [ICCE-Asia 2022](https://www.theieie.org/board/?_0000_method=view&ncode=a002&num=1516), Oct 2022, Yeosu, South Korea
+* **Invited Talk: [Practical Perspective of Artificial Neural Networks as a Function Approximator](https://d6tizftlrpuof.cloudfront.net/live/i/5ce7e8eddf90e5475931fe1b/66db4115e685972523a76e8a4d13a6b9e0f9e2d5.html?tags=bottom#)** | [COIN 2014](https://ieeexplore.ieee.org/xpl/conhome/6940140/proceeding)
+    * *Shifting the perspective from "almighty black box" to functional tool.*
+
+## Developer Events
+* **Gen AI Academy** | Scheduled Mar 2026
+* **[DevFest 2024 Seoul](https://gdg.community.dev/events/details/google-gdg-seoul-presents-devfest-2024-seoul/)** | Beyond Text: Exploring Multimodality of Gemini ([Slides](https://docs.google.com/presentation/d/1w4EfjGtkX3w11cJMeZ9SW16RfP8oXeg4mqdMKOGw8EA/edit?resourcekey=0-nFDTut92Tc7XvwM5i7HhSg&slide=id.g228dee1d198_1_277#slide=id.g228dee1d198_1_277) / [.pdf](https://github.com/aimldl/genai/blob/main/devfest-cloud-2024/Beyond%20Text_%20Exploring%20Multimodality%20of%20Gemini%20(released).pdf))
+    * *Presentation and demo for the local Google Developer Group (GDG) community.*
+* **Cloud Summit Korea** | 2024
+* **ML Community Summit** | [Brief Introduction to Cloud TPU](https://docs.google.com/presentation/d/1XGsa-QZRw0jzUvKsr11ToHBpiPbIe0SITnmHx8nbP1Q/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Oct 2022
+* **Google Cloud Monthly Advanced Workshop** | [Demystifying Cloud TPU](https://docs.google.com/presentation/d/1QoQMFAYz4IzOMmlGPaXXAiRskQQXh8p5UUrKYci5S-Y/edit#slide=id.gb4a3fac3a8_7_1911), Aug 2022
+
+## Online & Executive Events
+* **Keynote: [Fast-Tracking AI/ML to Gain a Competitive Edge](https://cio.economictimes.indiatimes.com/news/corporate-news/fast-tracking-ai-ml-to-gain-a-competitive-edge/95400430)** | Re-imagining Tech, Nov 2022
+    * [Watch Video](https://youtu.be/UY5cjqsJp8Q?si=hObAqi5uKSUGHH3n&t=1451) (Timestamp 24:11–1:04:12)
+* **Data Cloud & Applied ML Summit** | [What’s New in AI? Update on TPU and Vertex AI](https://docs.google.com/presentation/d/1vanmR1c-fRIOcE4gn9rv-Or3oTRD5QkS9IQ0xwipxWQ/edit?slide=id.gce8c4a9192_1_6#slide=id.gce8c4a9192_1_6), Jun 2022
+* **Executive Briefing (EBC)** | [Machine Learning at Scale: Migration Journey, Reference Architecture, and Lessons Learned](https://docs.google.com/presentation/d/1ZD9wn4EfWq2jUj0OpkOQvEL27INW9iO-U04kH9doPQA/edit?slide=id.g205e25b6a9f_0_240#slide=id.g205e25b6a9f_0_240), Feb 2023
 
 ## Academic Conferences
 - [Keynote at ICEIC](https://iceic.org/2026/pages/keynote.vm), Jan 2026, Macau.
