@@ -79,6 +79,8 @@ Engaged diverse audiences (from academic scholars to industry leaders) across ma
 - Keynote at Re-imagining Tech in 2022, Nov 2022.
   - Blog: [Fast-Tracking AI ML to gain a competitive edge](https://cio.economictimes.indiatimes.com/news/corporate-news/fast-tracking-ai-ml-to-gain-a-competitive-edge/95400430)
   - Video: [Fast-Tracking AI ML to gain a competitive edge, 24:11-:1:04:12]
+- Data Cloud & Applied ML Summit 2022, Jun 2022.
+  - [What’s New in AI?](https://docs.google.com/presentation/d/1vanmR1c-fRIOcE4gn9rv-Or3oTRD5QkS9IQ0xwipxWQ/edit?slide=id.gce8c4a9192_1_6#slide=id.gce8c4a9192_1_6) Update on TPU and Vertex AI
 
 ## Customer Events
 - Executive Briefings for Kakao Entertainment-EBC, Feb 2023.
