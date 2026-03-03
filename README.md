@@ -1,6 +1,18 @@
 # Mission Statement
 Make the large scale machine learning task easier and understandable. So more users can use it readily, create innovative technologies, and eventually make the world a better place. 
 
+<table>
+  <tr>
+    <td width="200">
+      <img src="T_Kim-profile_photo.jpg" width="200" style="border-radius: 50%;" alt="T Kim Profile Photo">
+    </td>
+    <td style="vertical-align: middle;">
+      <h2 style="border-bottom: none; margin: 0;">T Kim, Ph.D.</h2>
+      <p style="font-size: 1.2em; margin: 0;">Machine Learning Solution Lead, Google Cloud</p>
+    </td>
+  </tr>
+</table>
+
 # Bio
 T Kim, PhD, Machine Learning Solution Lead, Google Cloud
 
@@ -35,3 +47,8 @@ Google入社以前は、KT融合技術院の主席研究員として、自然言
 
 </details>
 
+# Links
+- Linkedin: [aimldl](https://www.linkedin.com/in/aimldl/)
+- Medium: 
+- Naver Blog: 
+- 
