@@ -72,7 +72,7 @@ Google入社以前は、KT融合技術院の主席研究員として、自然言
 # Blog posts, videos and demos
 ## 2024
 - Video:
-- Demo: Create an emerging demo for the audience to demonstrate the video understanding capability of Gemini 1.5, [Youtube] [.mov](https://drive.google.com/file/d/1p_nyPF87y_TOw7z4261OqqQwdEzjC93t/view)
+- Demo: an emerging demo for the audience to demonstrate the video understanding capability of Gemini 1.5, [Youtube](https://youtu.be/NK3uOWT4rW4), [.mov](https://drive.google.com/file/d/1p_nyPF87y_TOw7z4261OqqQwdEzjC93t/view)
 ## 2022
 - Blog: [Fast-Tracking AI ML to gain a competitive edge](https://cio.economictimes.indiatimes.com/news/corporate-news/fast-tracking-ai-ml-to-gain-a-competitive-edge/95400430), ETCIO.
 - Video: [Fast-Tracking AI ML to gain a competitive edge, 24:11-:1:04:12]
