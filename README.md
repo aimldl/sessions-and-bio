@@ -3,14 +3,13 @@
 ## Mission Statement
 Make the large scale machine learning task easier and understandable. So more users can use it readily, create innovative technologies, and eventually make the world a better place. 
 
-## Bio: T Kim, Ph.D.
+## Bio
 T Kim, Ph.D. | 김태형, 공학박사 | 金 泰亨 (キム テヒョン) 博士（工学）
+
 Machine Learning Solution Lead, Google Cloud
 
-<details>
+<details open>
 <summary>🇺🇸 English</summary>
-
-**Machine Learning Solution Lead, Google Cloud**
 
 T Kim is a Machine Learning Solution Lead at Google Cloud where he helps users leverage the power of  AI Hypercomputer, Vertex AI, and Generative AI to build innovative technologies and solutions. Leveraging his successful track record in leading global-scale AI projects, he advises top enterprises in the APAC (Asia Pacific) region, driving business innovation through advanced AI/ML and Generative AI solutions. As a leader of the Google APAC AI/ML Community, he is dedicated to disseminating cutting-edge technologies and enhancing the technical capabilities of his colleagues in APAC. With over 20 years of experience in AI/ML and Gen AI, his passion lies in creating a world where more people can benefit from technology.
 
@@ -23,7 +22,7 @@ T holds a bachelor's degree in Radio Communication Engineering (2000) and a mast
 <details>
 <summary>🇰🇷 한국어</summary>
 
-**Google Cloud, 머신러닝 솔루션 리드**
+머신러닝 솔루션 리드, Google Cloud
 
 김태형 박사는 Google Cloud의 머신러닝 솔루션 리드입니다. 글로벌 스케일의 AI 프로젝트를 성공적으로 이끈 경험을 바탕으로, 아시아태평양 지역 주요 기업들의 머신러닝 및 생성형 AI 기반 비즈니스 혁신을 지원하며 기술 자문과 솔루션을 제공합니다. 구글 아시아태평양 지역 AI 전문가 커뮤니티 리더로서, 최신 기술 전파 및 동료들의 기술 역량 강화에도 기여하고 있습니다. 20년 이상의 머신러닝 경험을 바탕으로, '더 많은 사람이 기술의 혜택을 누리는 세상'을 만드는 데 열정을 쏟고 있습니다. 
 
