@@ -57,12 +57,6 @@ Google入社以前は、KT融合技術院の主席研究員として、自然言
 # Selected Speaking Engagements
 Engaged diverse audiences (from academic scholars to industry leaders) across major global and local tech platforms and research conferences.
 
-## Academic Conferences
-* Keynote: [Evolution of Intelligence: How Today Charts the Course from Past to Future](https://docs.google.com/presentation/d/1-MKmefF086l-0kMB4DGOJNsRvl4bOmE_WGioip6XuMU/edit?usp=drive_web&ouid=102469482706489227148) | [ICEIC 2026](https://iceic.org/2026/pages/keynote.vm), Jan 2026, Macau
-    * Focus: From Generative Models to Agentic Orchestration.
-* Tutorial: [Demystifying Cloud TPU](https://docs.google.com/presentation/d/1UuLIZRqIYxFio3vF3h6ypM4X2dGEM-M326y9bvB5WBQ/edit?slide=id.g176900c0da3_0_0#slide=id.g176900c0da3_0_0) | [ICCE-Asia 2022](https://www.theieie.org/board/?_0000_method=view&ncode=a002&num=1516), Oct 2022, Yeosu, South Korea
-* Invited Talk: [Practical Perspective of Artificial Neural Networks as a Function Approximator](https://ieeexplore.ieee.org/document/6950561) | [COIN 2014](https://ieeexplore.ieee.org/xpl/conhome/6940140/proceeding), Aug 2014, Jeju, South Korea
-
 ## Developer Events
 * Gen AI Academy | Scheduled Mar 2026, Seoul, South Korea
 * [DevFest 2024 Seoul](https://gdg.community.dev/events/details/google-gdg-seoul-presents-devfest-2024-seoul/) | Beyond Text: Exploring Multimodality of Gemini ([Slides](https://docs.google.com/presentation/d/1w4EfjGtkX3w11cJMeZ9SW16RfP8oXeg4mqdMKOGw8EA/edit?resourcekey=0-nFDTut92Tc7XvwM5i7HhSg&slide=id.g228dee1d198_1_277#slide=id.g228dee1d198_1_277) / [.pdf](https://github.com/aimldl/genai/blob/main/devfest-cloud-2024/Beyond%20Text_%20Exploring%20Multimodality%20of%20Gemini%20(released).pdf)), Nov 2024, Seoul, South Korea
@@ -70,6 +64,12 @@ Engaged diverse audiences (from academic scholars to industry leaders) across ma
 * [Cloud Summit Korea 2024](https://docs.google.com/spreadsheets/d/1Ejt3VmTQWpCRvMIIv8gXdBKEMDoYHY86PWKV9L6idg0/edit?resourcekey=0-Q4tN-gB2rEUaegw_e0Kj3g&gid=1403115004#gid=1403115004) | [GenAI Live + Labs](https://docs.google.com/presentation/d/1YhZYmuJhI_nTavR3pFcoq7DHDRZEdgm2_YipQ9B6o-w/edit?slide=id.g274a406d0d2_11_502#slide=id.g274a406d0d2_11_502), Jun 2024, Seoul, South Korea
     * Delivered the Welcome Address and co-facilitated technical hands-on labs with Google Developer Relations.
 * [ML Community Summit 2022](https://docs.google.com/document/d/1JvSyZukde7dIN0PaEHyF0G_5XJprq-OjNStSHfxNMEM/edit?resourcekey=0-KJOUMi4rTYuCVhsVGobipg&tab=t.0#heading=h.yyx33u5y86i4) | [Brief Introduction to Cloud TPU](https://docs.google.com/presentation/d/1XGsa-QZRw0jzUvKsr11ToHBpiPbIe0SITnmHx8nbP1Q/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Oct 2022, Bangkok, Thailand.
+
+## Academic Conferences
+* Keynote: [Evolution of Intelligence: How Today Charts the Course from Past to Future](https://docs.google.com/presentation/d/1-MKmefF086l-0kMB4DGOJNsRvl4bOmE_WGioip6XuMU/edit?usp=drive_web&ouid=102469482706489227148) | [ICEIC 2026](https://iceic.org/2026/pages/keynote.vm), Jan 2026, Macau
+    * Focus: From Generative Models to Agentic Orchestration.
+* Tutorial: [Demystifying Cloud TPU](https://docs.google.com/presentation/d/1UuLIZRqIYxFio3vF3h6ypM4X2dGEM-M326y9bvB5WBQ/edit?slide=id.g176900c0da3_0_0#slide=id.g176900c0da3_0_0) | [ICCE-Asia 2022](https://www.theieie.org/board/?_0000_method=view&ncode=a002&num=1516), Oct 2022, Yeosu, South Korea
+* Invited Talk: [Practical Perspective of Artificial Neural Networks as a Function Approximator](https://ieeexplore.ieee.org/document/6950561) | [COIN 2014](https://ieeexplore.ieee.org/xpl/conhome/6940140/proceeding), Aug 2014, Jeju, South Korea
 
 ## Customer Events
 * [2025 Cloud Innovation Day for LG/LX](https://rsvp.withgoogle.com/events/2025-cloud-innovation-day-lg), [slides](https://docs.google.com/presentation/d/1xitGBeYxItyqBkCeNb9JH56x_dUHmYePka6Ir_D5gWo/edit?slide=id.g257021ab479_0_4183&resourcekey=0-SEeGphNTGNMzGiX_m2sCnQ#slide=id.g257021ab479_0_4183), Apr 2025, Seoul, South Korea
