@@ -53,3 +53,18 @@ Google入社以前は、KT融合技術院の主席研究員として、自然言
 - Qiita: [aimldl](https://qiita.com/aimldl)
 - Hatena blog: [aimldl](https://blog.hatena.ne.jp/register)
 - Youtube: [@tkim6576](https://www.youtube.com/@tkim6576)
+
+# Recent Sessions
+
+[Keynote Speech at ICEIC](https://iceic.org/2026/pages/keynote.vm) (Jan 2026, keynote)
+- [deck: Evolution of Intelligence: How Today Charts the Course from Past to Future From Generative Models to Agentic Orchestration
+](https://docs.google.com/presentation/d/1-MKmefF086l-0kMB4DGOJNsRvl4bOmE_WGioip6XuMU/edit?usp=drive_web&ouid=102469482706489227148)
+
+## Demos
+
+##
+
+## Blog posts, videos and demos
+### 2026
+
+
