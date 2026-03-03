@@ -71,22 +71,20 @@ Engaged diverse audiences (from academic scholars to industry leaders) across ma
     * Delivered the Welcome Address and co-facilitated technical hands-on labs with Google Developer Relations.
 * [ML Community Summit 2022](https://docs.google.com/document/d/1JvSyZukde7dIN0PaEHyF0G_5XJprq-OjNStSHfxNMEM/edit?resourcekey=0-KJOUMi4rTYuCVhsVGobipg&tab=t.0#heading=h.yyx33u5y86i4) | [Brief Introduction to Cloud TPU](https://docs.google.com/presentation/d/1XGsa-QZRw0jzUvKsr11ToHBpiPbIe0SITnmHx8nbP1Q/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Oct 2022, Bangkok, Thailand.
 
+## Customer Events
+* [2025 Cloud Innovation Day for LG/LX](https://rsvp.withgoogle.com/events/2025-cloud-innovation-day-lg), [slides](https://docs.google.com/presentation/d/1xitGBeYxItyqBkCeNb9JH56x_dUHmYePka6Ir_D5gWo/edit?slide=id.g257021ab479_0_4183&resourcekey=0-SEeGphNTGNMzGiX_m2sCnQ#slide=id.g257021ab479_0_4183), Apr 2025, Seoul, South Korea
+* [Samsung Cloud Innovation 2024](https://rsvp.withgoogle.com/events/cloud-innovation-day-2024-samsung), [slides](https://docs.google.com/presentation/d/1gN_DzkFuKJz5CjScfJV8_y4vyhX5tcL0vRz8tjwh5jI/edit?slide=id.g3155956c38f_4_0#slide=id.g3155956c38f_4_0) & [doc](https://docs.google.com/document/d/1XQhumQZ-haeCIYh8Qzeud4ahc6fm4vT0icBpqsTA0t0/edit?resourcekey=0-GjiwcsPNu7i97F-mFXT7WA&tab=t.0), Nov 2024, Suwon, South Korea
+  * Presented the 2024 Nobel Prize-winning AlphaFold technology, demonstrating how Vertex AI accelerates protein structure prediction for drug discovery
+* Cloud Innovation Day for LG & LX [2023](https://docs.google.com/spreadsheets/d/1e1tgv9jYYFMiHOjhrwQTOIbTTzRvKXYSw5_tQGJbos8/edit?gid=518610642#gid=518610642), [How to Transform Your Business with Generative AI](https://docs.google.com/presentation/d/1xitGBeYxItyqBkCeNb9JH56x_dUHmYePka6Ir_D5gWo/edit?slide=id.g257021ab479_0_4183&resourcekey=0-SEeGphNTGNMzGiX_m2sCnQ#slide=id.g257021ab479_0_4183), Jun 2023, Seoul, South Korea
+  * Delivered Google Cloud’s GenAI roadmap, highlighting practical applications for business innovation
+* Cloud Innovation Week for Kakao [2023](https://docs.google.com/document/d/1Taptwv0ofAhwKXpaoPdH4tTPxxkxZaK9CcsQPnWXBX4/edit?tab=t.0), [AlphaGo부터 LaMDA까지. 구글의 AI/ML 컴퓨팅 인프라 Cloud TPU 따라잡기](https://docs.google.com/presentation/d/137kJtsntKxSC2KTJatYXHr3s0slHpYq__Hp4-yv9o4I/edit?slide=id.p#slide=id.p), Mar 2023, Seoul, South Korea
+* Executive Briefing (EBC) | [Machine Learning at Scale: Migration Journey, Reference Architecture, and Lessons Learned](https://docs.google.com/presentation/d/1ZD9wn4EfWq2jUj0OpkOQvEL27INW9iO-U04kH9doPQA/edit?slide=id.g205e25b6a9f_0_240#slide=id.g205e25b6a9f_0_240), Feb 2023
 
 ## Online Events
 * Keynote: [Fast-Tracking AI/ML to Gain a Competitive Edge](https://cio.economictimes.indiatimes.com/news/corporate-news/fast-tracking-ai-ml-to-gain-a-competitive-edge/95400430) | Re-imagining Tech, Nov 2022
-    * [Watch Video](https://youtu.be/UY5cjqsJp8Q?si=hObAqi5uKSUGHH3n&t=1451) (Timestamp 24:11–1:04:12)
+    * [Watch Video](https://youtu.be/UY5cjqsJp8Q?si=hObAqi5uKSUGHH3n&t=1451) ₩[24:11–1:04:12₩]
 * Google Cloud Monthly Advanced Workshop | [Demystifying Cloud TPU](https://docs.google.com/presentation/d/1QoQMFAYz4IzOMmlGPaXXAiRskQQXh8p5UUrKYci5S-Y/edit#slide=id.gb4a3fac3a8_7_1911), Aug 2022
 * Data Cloud & Applied ML Summit | [What’s New in AI? Update on TPU and Vertex AI](https://docs.google.com/presentation/d/1vanmR1c-fRIOcE4gn9rv-Or3oTRD5QkS9IQ0xwipxWQ/edit?slide=id.gce8c4a9192_1_6#slide=id.gce8c4a9192_1_6), Jun 2022
-
-## Customer Events
-* [2025 Cloud Innovation Day for LG/LX](https://rsvp.withgoogle.com/events/2025-cloud-innovation-day-lg), [slides](https://docs.google.com/presentation/d/1xitGBeYxItyqBkCeNb9JH56x_dUHmYePka6Ir_D5gWo/edit?slide=id.g257021ab479_0_4183&resourcekey=0-SEeGphNTGNMzGiX_m2sCnQ#slide=id.g257021ab479_0_4183), Apr 2025, Seoul, South Korea
-* [Samsung Cloud Innovation 2024](https://rsvp.withgoogle.com/events/cloud-innovation-day-2024-samsung), [slides](https://docs.google.com/presentation/d/1gN_DzkFuKJz5CjScfJV8_y4vyhX5tcL0vRz8tjwh5jI/edit?slide=id.g3155956c38f_4_0#slide=id.g3155956c38f_4_0) & [doc](https://docs.google.com/document/d/1XQhumQZ-haeCIYh8Qzeud4ahc6fm4vT0icBpqsTA0t0/edit?resourcekey=0-GjiwcsPNu7i97F-mFXT7WA&tab=t.0), Nov. 2024, Suwon, South Korea
-  * Presented the 2024 Nobel Prize-winning AlphaFold technology, demonstrating how Vertex AI accelerates protein structure prediction for drug discovery
-* [Cloud Innovation Day for LG & LX 2023](https://rsvp.withgoogle.com/events/2025-cloud-innovation-day-lg), [slides](https://docs.google.com/presentation/d/1xitGBeYxItyqBkCeNb9JH56x_dUHmYePka6Ir_D5gWo/edit?slide=id.g257021ab479_0_4183&resourcekey=0-SEeGphNTGNMzGiX_m2sCnQ#slide=id.g257021ab479_0_4183), Apr 2025
-* Cloud Innovation Day for LG & LX [2023](https://docs.google.com/spreadsheets/d/1e1tgv9jYYFMiHOjhrwQTOIbTTzRvKXYSw5_tQGJbos8/edit?gid=518610642#gid=518610642), [How to Transform Your Business with Generative AI](https://docs.google.com/presentation/d/1xitGBeYxItyqBkCeNb9JH56x_dUHmYePka6Ir_D5gWo/edit?slide=id.g257021ab479_0_4183&resourcekey=0-SEeGphNTGNMzGiX_m2sCnQ#slide=id.g257021ab479_0_4183), Jun 2023, Seoul, South Korea
-  * Delivered Google Cloud’s GenAI roadmap, highlighting practical applications for business innovation
-* Executive Briefing (EBC) | [Machine Learning at Scale: Migration Journey, Reference Architecture, and Lessons Learned](https://docs.google.com/presentation/d/1ZD9wn4EfWq2jUj0OpkOQvEL27INW9iO-U04kH9doPQA/edit?slide=id.g205e25b6a9f_0_240#slide=id.g205e25b6a9f_0_240), Feb 2023
-* Cloud Innovation Week for Kakao [2023](https://docs.google.com/document/d/1Taptwv0ofAhwKXpaoPdH4tTPxxkxZaK9CcsQPnWXBX4/edit?tab=t.0), [AlphaGo부터 LaMDA까지. 구글의 AI/ML 컴퓨팅 인프라 Cloud TPU 따라잡기](https://docs.google.com/presentation/d/137kJtsntKxSC2KTJatYXHr3s0slHpYq__Hp4-yv9o4I/edit?slide=id.p#slide=id.p), Mar 2023, Seoul, South Korea
 
 # Blog posts, videos and demos
 ## 2024
