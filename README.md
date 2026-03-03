@@ -86,6 +86,11 @@ Engaged diverse audiences (from academic scholars to industry leaders) across ma
 * Google Cloud Monthly Advanced Workshop | [Demystifying Cloud TPU](https://docs.google.com/presentation/d/1QoQMFAYz4IzOMmlGPaXXAiRskQQXh8p5UUrKYci5S-Y/edit#slide=id.gb4a3fac3a8_7_1911), Aug 2022
 * Data Cloud & Applied ML Summit | [What’s New in AI? Update on TPU and Vertex AI](https://docs.google.com/presentation/d/1vanmR1c-fRIOcE4gn9rv-Or3oTRD5QkS9IQ0xwipxWQ/edit?slide=id.gce8c4a9192_1_6#slide=id.gce8c4a9192_1_6), Jun 2022
 
+## Lectures & Courses
+* A Foundation in NLP: Milestones from Machine Learning to Large Language Models: [Part 1](https://docs.google.com/presentation/d/1OBeo9DV9utum4Gl1fjk4aMSD41zcmtc3FDiJKb5jcmc/edit?resourcekey=0-nbE71qhePSrl0fF-YimrCA&slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), [Part 2](https://docs.google.com/presentation/d/1djhABK-ONTVwzy7GTB3D2ez742VD1CVlCEwwXJHd2AE/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Dec 2024, Seoul, South Korea
+* [AI/ML Fundamentals to Demystify Vertex NAS](https://docs.google.com/presentation/d/12tGlDx2ELyfnk0SAdguRUK47r2DDjEQCVw1jk44Ov4Y/edit?slide=id.g134d20b2ce0_0_1214#slide=id.g134d20b2ce0_0_1214), Jun 2022, Seoul, South Korea
+* 
+
 # Blog posts, videos and demos
 ## 2024
 
@@ -97,6 +102,8 @@ Engaged diverse audiences (from academic scholars to industry leaders) across ma
   
 * Building Multimodal Q&A System via Multimodal RAG: A Vertex AI-based hands-on demo.
     [Vertex AI 기반 멀티모달 Q&A 시스템 구축하기.ipynb](https://github.com/aimldl/genai/blob/main/devfest-cloud-2024/Vertex%20AI%20%EA%B8%B0%EB%B0%98%20%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC%20Q%26A%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0.ipynb)
+
+
 
 ## 2022
 - Blog: [Fast-Tracking AI ML to gain a competitive edge](https://cio.economictimes.indiatimes.com/news/corporate-news/fast-tracking-ai-ml-to-gain-a-competitive-edge/95400430), ETCIO.
