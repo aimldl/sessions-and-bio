@@ -65,7 +65,8 @@ Google入社以前は、KT融合技術院の主席研究員として、自然言
   - Blog: [Fast-Tracking AI ML to gain a competitive edge](https://cio.economictimes.indiatimes.com/news/corporate-news/fast-tracking-ai-ml-to-gain-a-competitive-edge/95400430)
   - Video: [Fast-Tracking AI ML to gain a competitive edge, 24:11-:1:04:12]
 
-## Demos
+## Session
+- ML Community Summit [Introduction to Cloud TPU](https://docs.google.com/presentation/d/1XGsa-QZRw0jzUvKsr11ToHBpiPbIe0SITnmHx8nbP1Q/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Oct. 22, 2022 
 
 ##
 
