@@ -56,10 +56,16 @@ Google入社以前は、KT融合技術院の主席研究員として、自然言
 
 # Sessions
 
-## Keynote Speech
+## Conferences
 - [Keynote at ICEIC](https://iceic.org/2026/pages/keynote.vm), Jan 2026, Macau.
   - [Evolution of Intelligence: How Today Charts the Course from Past to Future From Generative Models to Agentic Orchestration
 ](https://docs.google.com/presentation/d/1-MKmefF086l-0kMB4DGOJNsRvl4bOmE_WGioip6XuMU/edit?usp=drive_web&ouid=102469482706489227148)
+
+
+ICCE-Asia 2022 (Tutorial)
+ICIO 2014 (Invited Talk)
+
+
 
 - Keynote at Re-imagining Tech in 2022, Nov 2022.
   - Blog: [Fast-Tracking AI ML to gain a competitive edge](https://cio.economictimes.indiatimes.com/news/corporate-news/fast-tracking-ai-ml-to-gain-a-competitive-edge/95400430)
@@ -89,5 +95,28 @@ Google入社以前は、KT融合技術院の主席研究員として、自然言
 ## 2022
 - Blog: [Fast-Tracking AI ML to gain a competitive edge](https://cio.economictimes.indiatimes.com/news/corporate-news/fast-tracking-ai-ml-to-gain-a-competitive-edge/95400430), ETCIO.
 - Video: [Fast-Tracking AI ML to gain a competitive edge, 24:11-:1:04:12]
+
+# Past Sessions
+## Conferences
+WCCI 2012, IJCNN 2009, SMC 2009, CIC 2002
+
+# Patents
+- [Ontology Based Intelligent Smart Home System and Method](https://patents.google.com/patent/KR102566607B1/en?q=(%22Ontology+Based+Intelligent+Smart+Home+System+and+Method%22)&oq=%22Ontology+Based+Intelligent+Smart+Home+System+and+Method%22), 2023.08.09, 1025666070000
+- [Spoken Language Identification Apparatus and Method in Multilingual Environment](https://patents.google.com/patent/KR20210081166A/en), '21, KR20210081166A
+- [Apparatus and Method for Displaying Electric Program Guide and Server](https://patents.google.com/patent/KR20140083682A/en?q=(%22Apparatus+and+Method+for+Displaying+Electric+Program+Guide+and+Server%22)&oq=%22Apparatus+and+Method+for+Displaying+Electric+Program+Guide+and+Server%22), 2014.07.04, KR20140083682A
+
+# Publications
+- [Depth-Controllable Very Deep Super-Resolution Network](https://ieeexplore.ieee.org/document/8851874) (‘19)
+- [Practical Perspective of Artificial Neural Networks as a Function Approximator, not an Almighty Black Box](https://ieeexplore.ieee.org/document/6950561) (‘14)
+- [Modified Cellular Simultaneous Recurrent Networks with Cellular Particle Swarm Optimization](https://ieeexplore.ieee.org/document/6252845) (‘12)
+- [Spatial-Temporal Reasoning Applications of Computational Intelligence in the Game of Go and Computer Networks](https://apps.dtic.mil/sti/tr/pdf/ADA571435.pdf) (‘12)
+- [Recursive and Nonrecursive Algorithms for the Group Size Counting Problem in Computer Go](https://asmedigitalcollection.asme.org/ebooks/book/149/chapter-abstract/30386/Recursive-and-Non-Recursive-Algorithms-for-the?redirectedFrom=PDF) (‘10)
+- [Investigating the Properties of Cellular Simultaneous Recurrent Networks](https://cs.mst.edu/media/academic/cs/documents/newsletters/2010_Newsletter.pdf) (‘09)
+- [Reconfigurable Disruption Tolerant Routing via Reinforcement Learning](https://dl.acm.org/doi/10.5555/1704555.1704685) (‘09)
+- [Robotic Go: Exploring a Different Perspective on Human-Computer Interaction with the Game of Go](https://ieeexplore.ieee.org/document/5346385) (‘09)
+- [Dynamic Offset Contention Window Algorithm for Wireless MAC in 802.11e based Wireless Home Networks](https://dl.acm.org/doi/10.5555/1766911.1766935) (‘02)
+- [A Wireless Fair Scheduling Algorithm for 1xEV-DO System](https://ieeexplore.ieee.org/document/956869) (‘01)
+
+
 
  
