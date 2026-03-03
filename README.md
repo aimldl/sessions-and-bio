@@ -90,6 +90,7 @@ Engaged diverse audiences (from academic scholars to industry leaders) across ma
 Generative AI
 
 * 🇯🇵 [生成AI ハンズオン・セミナー](https://docs.google.com/presentation/d/1THaij1sIK7NFXqE2d1XEIF-vF8n8a7n7hhcJec5QazM/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), 2025年10月, 北海道千歳高等学校,
+  * Copy and paste the following link to see the review. Warning: Clicking the link will result in 403 ERROR.
   * https://www.chitose.hokkaido-c.ed.jp/blogs/blog_entries/view/31/5a010e16982ae5470e778ce0cb11e3bb?frame_id=39
   * [Googleエンジニアから学ぶ最前線！ 国際教養科「生成AI」特別講演・ワークショップ](https://www.chitose.hokkaido-c.ed.jp/blogs/blog_entries/view/31/5a010e16982ae5470e778ce0cb11e3bb?frame_id=39), Oct 2025, Chitose Highschool, Hokkaido, Japan
 
