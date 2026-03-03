@@ -95,6 +95,7 @@ Vertex AI NAS (Neural Architecture Search)
 * [Vertex NAS-Preliminary(Korean)](https://docs.google.com/presentation/d/19ehwTaO8pwaNx8fAEMsMkmdwPwtb6Tac9fhMHEyFxE0/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Apr 2022
 * [Vertex NAS-Deep Dive](https://docs.google.com/presentation/d/1jMozgPijlkUkPjBlPI-xmYzLr0jKMqTHKXPz3JdpO_8/edit?resourcekey=0-TvSWOc6dstH2P3ZtTJpDbQ&slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Apr 2022
 * [Vertex NAS](https://docs.google.com/presentation/d/1T1hzr_IZQ4L3eUKeEkbfXVZb4Tw_baMm7dfzhwiu62g/edit?resourcekey=0-RE9_zGPtSI83L4_PdoPALw&slide=id.g115a8c01fc2_1_1883#slide=id.g115a8c01fc2_1_1883), Mar 2022, KR Sales Enablement
+* [Vertex NAS Workshop (Korean)](https://docs.google.com/presentation/d/11a2pYvLzcwmZ4YfyIoaQZkbYP1xkfvjiYc1ldjpdU4E/edit?resourcekey=0-fUyNKOvJo5wJCpx3PPRYXQ&slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Feb 2022, LG AIR
 
 Vertex AI
 * [Introduction to Vertex AI](https://docs.google.com/presentation/d/14lGtGlTe_R7fyyxWe8IoCkExhQJERPN8J_3nVnG8FmU/edit?resourcekey=0-wAN-zK5gOn7sclP0l0qxCg&slide=id.g13a430899de_7_3248#slide=id.g13a430899de_7_3248), Sep 2022
