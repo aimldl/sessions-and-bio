@@ -60,16 +60,10 @@ Google入社以前は、KT融合技術院の主席研究員として、自然言
 - [Keynote at ICEIC](https://iceic.org/2026/pages/keynote.vm), Jan 2026, Macau.
   - [Evolution of Intelligence: How Today Charts the Course from Past to Future From Generative Models to Agentic Orchestration
 ](https://docs.google.com/presentation/d/1-MKmefF086l-0kMB4DGOJNsRvl4bOmE_WGioip6XuMU/edit?usp=drive_web&ouid=102469482706489227148)
-
-
-ICCE-Asia 2022 (Tutorial)
-ICIO 2014 (Invited Talk)
-
-
-
-- Keynote at Re-imagining Tech in 2022, Nov 2022.
-  - Blog: [Fast-Tracking AI ML to gain a competitive edge](https://cio.economictimes.indiatimes.com/news/corporate-news/fast-tracking-ai-ml-to-gain-a-competitive-edge/95400430)
-  - Video: [Fast-Tracking AI ML to gain a competitive edge, 24:11-:1:04:12]
+- Tutorial at [ICCE-Asia 2022](https://www.theieie.org/board/?_0000_method=view&ncode=a002&num=1516), Oct, 2022, Yeosu, South Korea
+  - [Demystifying Cloud TPU](https://docs.google.com/presentation/d/1UuLIZRqIYxFio3vF3h6ypM4X2dGEM-M326y9bvB5WBQ/edit?slide=id.g176900c0da3_0_0#slide=id.g176900c0da3_0_0)
+- Invited Talk at [COIN 2014](https://ieeexplore.ieee.org/xpl/conhome/6940140/proceeding)
+  - Presentation of [Practical perspective of artificial neural networks as a function approximator, not an almighty black box](https://d6tizftlrpuof.cloudfront.net/live/i/5ce7e8eddf90e5475931fe1b/66db4115e685972523a76e8a4d13a6b9e0f9e2d5.html?tags=bottom#)
 
 ## Developer Events
 - Gen AI Academy (scheduled Mar 2026)
@@ -79,7 +73,16 @@ ICIO 2014 (Invited Talk)
 - ML Community Summit [Brief Introduction to Cloud TPU](https://docs.google.com/presentation/d/1XGsa-QZRw0jzUvKsr11ToHBpiPbIe0SITnmHx8nbP1Q/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Oct. 22, 2022 
 - Google Cloud Monthly Advanced Workshop, [Demystifying Cloud TPU](https://docs.google.com/presentation/d/1QoQMFAYz4IzOMmlGPaXXAiRskQQXh8p5UUrKYci5S-Y/edit#slide=id.gb4a3fac3a8_7_1911), Aug. 24, 2022
 
-##
+## Online Events
+- Keynote at Re-imagining Tech in 2022, Nov 2022.
+  - Blog: [Fast-Tracking AI ML to gain a competitive edge](https://cio.economictimes.indiatimes.com/news/corporate-news/fast-tracking-ai-ml-to-gain-a-competitive-edge/95400430)
+  - Video: [Fast-Tracking AI ML to gain a competitive edge, 24:11-:1:04:12]
+
+## Customer Events
+- Executive Briefings for Kakao Entertainment-EBC, Feb 2023.
+  - [Machine Learning at Scale: Migration Journey, Reference Architecture and Lessons Learned](https://docs.google.com/presentation/d/1ZD9wn4EfWq2jUj0OpkOQvEL27INW9iO-U04kH9doPQA/edit?slide=id.g205e25b6a9f_0_240#slide=id.g205e25b6a9f_0_240)
+ 
+
 
 # Blog posts, videos and demos
 ## 2024
@@ -98,8 +101,12 @@ ICIO 2014 (Invited Talk)
 - Video: [Fast-Tracking AI ML to gain a competitive edge, 24:11-:1:04:12]
 
 # Past Sessions
+## Executive Engagements (C-level and senior business leaders)
+- Briefings: MTS (2019), China mobile-NTT Docomo (2017, 2018), AI Strategy Committee (2017), SoundHound (2017), Daimler-Benz (2016), 
+- Demos: Automatic LID (2018), GiGa Genie services (2016), OTV recommendation (2014), OTV dialog (2013)
+
 ## Conferences
-WCCI 2012, IJCNN 2009, SMC 2009, CIC 2002
+Presentations at WCCI 2012, IJCNN 2009, SMC 2009, CIC 2002
 
 # Technical Writing
 ## Patents
