@@ -64,12 +64,12 @@ Engaged diverse audiences (from academic scholars to industry leaders) across ma
 * Invited Talk: [Practical Perspective of Artificial Neural Networks as a Function Approximator](https://ieeexplore.ieee.org/document/6950561) | [COIN 2014](https://ieeexplore.ieee.org/xpl/conhome/6940140/proceeding), Aug 2014, Jeju, South Korea
 
 ## Developer Events
-* Gen AI Academy | Scheduled Mar 2026
-* [DevFest 2024 Seoul](https://gdg.community.dev/events/details/google-gdg-seoul-presents-devfest-2024-seoul/) | Beyond Text: Exploring Multimodality of Gemini ([Slides](https://docs.google.com/presentation/d/1w4EfjGtkX3w11cJMeZ9SW16RfP8oXeg4mqdMKOGw8EA/edit?resourcekey=0-nFDTut92Tc7XvwM5i7HhSg&slide=id.g228dee1d198_1_277#slide=id.g228dee1d198_1_277) / [.pdf](https://github.com/aimldl/genai/blob/main/devfest-cloud-2024/Beyond%20Text_%20Exploring%20Multimodality%20of%20Gemini%20(released).pdf))
+* Gen AI Academy | Scheduled Mar 2026, Seoul, South Korea
+* [DevFest 2024 Seoul](https://gdg.community.dev/events/details/google-gdg-seoul-presents-devfest-2024-seoul/) | Beyond Text: Exploring Multimodality of Gemini ([Slides](https://docs.google.com/presentation/d/1w4EfjGtkX3w11cJMeZ9SW16RfP8oXeg4mqdMKOGw8EA/edit?resourcekey=0-nFDTut92Tc7XvwM5i7HhSg&slide=id.g228dee1d198_1_277#slide=id.g228dee1d198_1_277) / [.pdf](https://github.com/aimldl/genai/blob/main/devfest-cloud-2024/Beyond%20Text_%20Exploring%20Multimodality%20of%20Gemini%20(released).pdf)), Nov 2024, Seoul, South Korea
     * Presentation and demo for the local Google Developer Group (GDG) community.
 * [Cloud Summit Korea 2024](https://docs.google.com/spreadsheets/d/1Ejt3VmTQWpCRvMIIv8gXdBKEMDoYHY86PWKV9L6idg0/edit?resourcekey=0-Q4tN-gB2rEUaegw_e0Kj3g&gid=1403115004#gid=1403115004) | [GenAI Live + Labs](https://docs.google.com/presentation/d/1YhZYmuJhI_nTavR3pFcoq7DHDRZEdgm2_YipQ9B6o-w/edit?slide=id.g274a406d0d2_11_502#slide=id.g274a406d0d2_11_502), Jun 2024, Seoul, South Korea
     * Delivered the Welcome Address and co-facilitated technical hands-on labs with Google Developer Relations.
-* ML Community Summit | [Brief Introduction to Cloud TPU](https://docs.google.com/presentation/d/1XGsa-QZRw0jzUvKsr11ToHBpiPbIe0SITnmHx8nbP1Q/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Oct 2022, 
+* [ML Community Summit 2022](https://docs.google.com/document/d/1JvSyZukde7dIN0PaEHyF0G_5XJprq-OjNStSHfxNMEM/edit?resourcekey=0-KJOUMi4rTYuCVhsVGobipg&tab=t.0#heading=h.yyx33u5y86i4) | [Brief Introduction to Cloud TPU](https://docs.google.com/presentation/d/1XGsa-QZRw0jzUvKsr11ToHBpiPbIe0SITnmHx8nbP1Q/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Oct 2022, Bangkok, Thailand.
 
 
 ## Online Events
