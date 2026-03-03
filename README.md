@@ -46,7 +46,10 @@ Google入社以前は、KT融合技術院の主席研究員として、自然言
 </details>
 
 # Links
+- GitHub: [aimldl](https://github.com/aimldl)
 - Linkedin: [aimldl](https://www.linkedin.com/in/aimldl/)
-- Medium: 
-- Naver Blog: 
-- 
+- Medium: [aimldl](https://aimldl.medium.com/)
+- Blog.Naver: [aimldl](https://blog.naver.com/aimldl)
+- Qiita: [aimldl](https://qiita.com/aimldl)
+- Hatena blog: [aimldl](https://blog.hatena.ne.jp/register)
+- Youtube: [@tkim6576](https://www.youtube.com/@tkim6576)
