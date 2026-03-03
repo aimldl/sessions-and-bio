@@ -87,10 +87,12 @@ Engaged diverse audiences (from academic scholars to industry leaders) across ma
 * Data Cloud & Applied ML Summit | [What’s New in AI? Update on TPU and Vertex AI](https://docs.google.com/presentation/d/1vanmR1c-fRIOcE4gn9rv-Or3oTRD5QkS9IQ0xwipxWQ/edit?slide=id.gce8c4a9192_1_6#slide=id.gce8c4a9192_1_6), Jun 2022
 
 ## Lectures & Workshops
+Generative AI
 
 * 🇯🇵 [生成AI ハンズオン・セミナー](https://docs.google.com/presentation/d/1THaij1sIK7NFXqE2d1XEIF-vF8n8a7n7hhcJec5QazM/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), 2025年10月, 北海道千歳高等学校, 
   * [Googleエンジニアから学ぶ最前線！ 国際教養科「生成AI」特別講演・ワークショップ](https://www.chitose.hokkaido-c.ed.jp/blogs/blog_entries/view/31/5a010e16982ae5470e778ce0cb11e3bb?frame_id=39), Oct 2025, Chitose Highschool, Hokkaido, Japan
 
+NLP & LLMs
 * A Foundation in NLP: Milestones from Machine Learning to Large Language Models: [Part 1](https://docs.google.com/presentation/d/1OBeo9DV9utum4Gl1fjk4aMSD41zcmtc3FDiJKb5jcmc/edit?resourcekey=0-nbE71qhePSrl0fF-YimrCA&slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911) & [Part 2](https://docs.google.com/presentation/d/1djhABK-ONTVwzy7GTB3D2ez742VD1CVlCEwwXJHd2AE/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Dec 2024
 
 Vertex AI NAS (Neural Architecture Search)
