@@ -86,12 +86,12 @@ Engaged diverse audiences (from academic scholars to industry leaders) across ma
 * Google Cloud Monthly Advanced Workshop | [Demystifying Cloud TPU](https://docs.google.com/presentation/d/1QoQMFAYz4IzOMmlGPaXXAiRskQQXh8p5UUrKYci5S-Y/edit#slide=id.gb4a3fac3a8_7_1911), Aug 2022
 * Data Cloud & Applied ML Summit | [What’s New in AI? Update on TPU and Vertex AI](https://docs.google.com/presentation/d/1vanmR1c-fRIOcE4gn9rv-Or3oTRD5QkS9IQ0xwipxWQ/edit?slide=id.gce8c4a9192_1_6#slide=id.gce8c4a9192_1_6), Jun 2022
 
-## Lectures, Workshops & Courses
+## Lectures & Workshops
 * A Foundation in NLP: Milestones from Machine Learning to Large Language Models: [Part 1](https://docs.google.com/presentation/d/1OBeo9DV9utum4Gl1fjk4aMSD41zcmtc3FDiJKb5jcmc/edit?resourcekey=0-nbE71qhePSrl0fF-YimrCA&slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911) & [Part 2](https://docs.google.com/presentation/d/1djhABK-ONTVwzy7GTB3D2ez742VD1CVlCEwwXJHd2AE/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Dec 2024
 
 Vertex AI NAS (Neural Architecture Search)
 * AI/ML Fundamentals to Demystify Vertex NAS: [Part 1](https://docs.google.com/presentation/d/12tGlDx2ELyfnk0SAdguRUK47r2DDjEQCVw1jk44Ov4Y/edit?slide=id.g134d20b2ce0_0_1214#slide=id.g134d20b2ce0_0_1214) & [Part 2](https://docs.google.com/presentation/d/1CbAuuiJsuSwwyEojJyN16a3WqHVCNZTTqZmTN7HGTJI/edit?resourcekey=0-zrg-m0AsDYDMGN4hmFeUgg&slide=id.g134d20b2ce0_0_1214#slide=id.g134d20b2ce0_0_1214), Jun 2022
-* Google Cloud Champion Program-Expert Course, [Introduction to Vertex NAS](https://docs.google.com/presentation/d/1CiHIkvCYTHHgMGs6igbYspS3H8ZppsQ8_wfkBf7q9XI/edit?slide=id.g165998c66a6_1_1#slide=id.g165998c66a6_1_1), Oct 2022, Hyundai Motor Group
+* [Introduction to Vertex NAS](https://docs.google.com/presentation/d/1CiHIkvCYTHHgMGs6igbYspS3H8ZppsQ8_wfkBf7q9XI/edit?slide=id.g165998c66a6_1_1#slide=id.g165998c66a6_1_1), Oct 2022, Google Cloud Champion Program-Expert Course, Hyundai Motor Group
 * [Vertex NAS-Preliminary(Korean)](https://docs.google.com/presentation/d/19ehwTaO8pwaNx8fAEMsMkmdwPwtb6Tac9fhMHEyFxE0/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Apr 2022
 * [Vertex NAS-Deep Dive](https://docs.google.com/presentation/d/1jMozgPijlkUkPjBlPI-xmYzLr0jKMqTHKXPz3JdpO_8/edit?resourcekey=0-TvSWOc6dstH2P3ZtTJpDbQ&slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Apr 2022
 * [Vertex NAS](https://docs.google.com/presentation/d/1T1hzr_IZQ4L3eUKeEkbfXVZb4Tw_baMm7dfzhwiu62g/edit?resourcekey=0-RE9_zGPtSI83L4_PdoPALw&slide=id.g115a8c01fc2_1_1883#slide=id.g115a8c01fc2_1_1883), Mar 2022, KR Sales Enablement
