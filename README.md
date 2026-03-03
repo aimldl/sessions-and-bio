@@ -108,6 +108,9 @@ Vertex AI NAS (Neural Architecture Search)
 Vertex AI
 * [Introduction to Vertex AI](https://docs.google.com/presentation/d/14lGtGlTe_R7fyyxWe8IoCkExhQJERPN8J_3nVnG8FmU/edit?resourcekey=0-wAN-zK5gOn7sclP0l0qxCg&slide=id.g13a430899de_7_3248#slide=id.g13a430899de_7_3248), Sep 2022
 
+Cloud TPU
+* [Accelerating Nature of Cloud TPU](https://docs.google.com/presentation/d/1cwF_RIKGT1yaR84g-qSNC74bR9QkZ8kP6dhM1gyGdho/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Sep 2022, Kakao Brain
+
 ## Academic Instruction & Hands-on Lab
 Taught for 5 semesters as a course instructor at University of Missouri (2006, 2007, 2010, 2011)
 * Intelligent Telecommunications Network Modeling (graduate-level)
