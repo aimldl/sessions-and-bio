@@ -66,7 +66,11 @@ Google入社以前は、KT融合技術院の主席研究員として、自然言
   - Video: [Fast-Tracking AI ML to gain a competitive edge, 24:11-:1:04:12]
 
 ## Session
-- ML Community Summit [Introduction to Cloud TPU](https://docs.google.com/presentation/d/1XGsa-QZRw0jzUvKsr11ToHBpiPbIe0SITnmHx8nbP1Q/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Oct. 22, 2022 
+- [DevFest 2024 Seoul](https://gdg.community.dev/events/details/google-gdg-seoul-presents-devfest-2024-seoul/), Beyond Text: Exploring Multimodality of Gemini [slides](https://docs.google.com/presentation/d/1w4EfjGtkX3w11cJMeZ9SW16RfP8oXeg4mqdMKOGw8EA/edit?resourcekey=0-nFDTut92Tc7XvwM5i7HhSg&slide=id.g228dee1d198_1_277#slide=id.g228dee1d198_1_277), [.pdf](https://github.com/aimldl/genai/blob/main/devfest-cloud-2024/Beyond%20Text_%20Exploring%20Multimodality%20of%20Gemini%20(released).pdf), 2024.
+  * Presentation and demo at a local event organized by GDG (Google Developer Groups)
+- Cloud Summit Korea (2024)
+- ML Community Summit [Brief Introduction to Cloud TPU](https://docs.google.com/presentation/d/1XGsa-QZRw0jzUvKsr11ToHBpiPbIe0SITnmHx8nbP1Q/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Oct. 22, 2022 
+- Google Cloud Monthly Advanced Workshop, [Demystifying Cloud TPU](https://docs.google.com/presentation/d/1QoQMFAYz4IzOMmlGPaXXAiRskQQXh8p5UUrKYci5S-Y/edit#slide=id.gb4a3fac3a8_7_1911), Aug. 24, 2022
 
 ##
 
