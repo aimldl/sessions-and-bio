@@ -56,6 +56,8 @@ Google入社以前は、KT融合技術院の主席研究員として、自然言
 
 # Sessions
 
+Engaged diverse audiences (from academic scholars to industry leaders) through keynote speaches and technical workshops across major global and local tech platforms.
+
 ## Conferences
 - [Keynote at ICEIC](https://iceic.org/2026/pages/keynote.vm), Jan 2026, Macau.
   - [Evolution of Intelligence: How Today Charts the Course from Past to Future From Generative Models to Agentic Orchestration
