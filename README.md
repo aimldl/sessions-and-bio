@@ -56,15 +56,22 @@ Google入社以前は、KT融合技術院の主席研究員として、自然言
 
 # Recent Sessions
 
-[Keynote Speech at ICEIC](https://iceic.org/2026/pages/keynote.vm) (Jan 2026, keynote)
-- [Evolution of Intelligence: How Today Charts the Course from Past to Future From Generative Models to Agentic Orchestration
+## Keynote Speech
+- [Keynote at ICEIC](https://iceic.org/2026/pages/keynote.vm), Jan 2026, Macau.
+  - [Evolution of Intelligence: How Today Charts the Course from Past to Future From Generative Models to Agentic Orchestration
 ](https://docs.google.com/presentation/d/1-MKmefF086l-0kMB4DGOJNsRvl4bOmE_WGioip6XuMU/edit?usp=drive_web&ouid=102469482706489227148)
+
+- Keynote at Re-imagining Tech in 2022, Nov 2022.
+  - Blog: [Fast-Tracking AI ML to gain a competitive edge](https://cio.economictimes.indiatimes.com/news/corporate-news/fast-tracking-ai-ml-to-gain-a-competitive-edge/95400430)
+  - Video: [Fast-Tracking AI ML to gain a competitive edge, 24:11-:1:04:12]
 
 ## Demos
 
 ##
 
-## Blog posts, videos and demos
-### 2026
+# Blog posts, videos and demos
+## 2022
+- Blog: [Fast-Tracking AI ML to gain a competitive edge](https://cio.economictimes.indiatimes.com/news/corporate-news/fast-tracking-ai-ml-to-gain-a-competitive-edge/95400430), ETCIO.
+- Video: [Fast-Tracking AI ML to gain a competitive edge, 24:11-:1:04:12]
 
-
+ 
