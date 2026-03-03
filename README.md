@@ -58,7 +58,7 @@ Google入社以前は、KT融合技術院の主席研究員として、自然言
 
 Engaged diverse audiences (from academic scholars to industry leaders) across major global and local tech platforms.
 
-## Conferences
+## Academic Conferences
 - [Keynote at ICEIC](https://iceic.org/2026/pages/keynote.vm), Jan 2026, Macau.
   - [Evolution of Intelligence: How Today Charts the Course from Past to Future From Generative Models to Agentic Orchestration
 ](https://docs.google.com/presentation/d/1-MKmefF086l-0kMB4DGOJNsRvl4bOmE_WGioip6XuMU/edit?usp=drive_web&ouid=102469482706489227148)
