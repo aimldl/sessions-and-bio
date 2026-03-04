@@ -90,9 +90,10 @@ Engaged diverse audiences (from academic scholars to industry leaders) across ma
 Generative AI
 
 * 🇯🇵 [生成AI ハンズオン・セミナー](https://docs.google.com/presentation/d/1THaij1sIK7NFXqE2d1XEIF-vF8n8a7n7hhcJec5QazM/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), 2025年10月, 北海道千歳高等学校,
-  * Copy and paste the following link to see the review. Warning: Clicking the link will result in 403 ERROR.
+  * Warning: Clicking the link will result in 403 ERROR. Simply copy and paste the link. 
   * https://www.chitose.hokkaido-c.ed.jp/blogs/blog_entries/view/31/5a010e16982ae5470e778ce0cb11e3bb?frame_id=39
   * [Googleエンジニアから学ぶ最前線！ 国際教養科「生成AI」特別講演・ワークショップ](https://www.chitose.hokkaido-c.ed.jp/blogs/blog_entries/view/31/5a010e16982ae5470e778ce0cb11e3bb?frame_id=39), Oct 2025, Chitose Highschool, Hokkaido, Japan
+  * [구글의 초거대 생성형 AI 동향 (Google's Giant Generative AI Trends)](https://docs.google.com/presentation/d/1TKIlr9t7vOYuBLFElfCUlf8Tfcusobp8e4ve-sJi6Zk/edit?resourcekey=0-iljyK4a9Yp33W3CfMmsM-A&slide=id.g2f1eae09b5f_0_2614#slide=id.g2f1eae09b5f_0_2614), Aug 2024, Supergiant AI Model for Manufactoring Robotics, Kyungnam University
 
 NLP & LLMs
 * A Foundation in NLP: Milestones from Machine Learning to Large Language Models: [Part 1](https://docs.google.com/presentation/d/1OBeo9DV9utum4Gl1fjk4aMSD41zcmtc3FDiJKb5jcmc/edit?resourcekey=0-nbE71qhePSrl0fF-YimrCA&slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911) & [Part 2](https://docs.google.com/presentation/d/1djhABK-ONTVwzy7GTB3D2ez742VD1CVlCEwwXJHd2AE/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Dec 2024
@@ -109,7 +110,10 @@ Vertex AI
 * [Introduction to Vertex AI](https://docs.google.com/presentation/d/14lGtGlTe_R7fyyxWe8IoCkExhQJERPN8J_3nVnG8FmU/edit?resourcekey=0-wAN-zK5gOn7sclP0l0qxCg&slide=id.g13a430899de_7_3248#slide=id.g13a430899de_7_3248), Sep 2022
 
 AI Accelerators (GPU & TPU)
-* [Beyond GPUs: Accelerating the Transition to TPUs](https://docs.google.com/presentation/d/1RTqBKnhaxjt4-EgG4ZgxLSM-S89jRZPTuRbAdbzPNwA/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Dec 2023, Kakao Brain
+* [Introduction to JAX](https://docs.google.com/presentation/d/1ionlRIdEofHg6h6-A6dlu70_nZhHvz46H2R81UjfJNU/edit?resourcekey=0-5pcoDsIGJ4gZh7KfyEQxPA&slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911),Feb 2024, Kakao Brain
+  * Topic: JAX, code examples
+* [Beyond GPUs: Accelerating the Transition to TPUs](https://docs.google.com/presentation/d/1RTqBKnhaxjt4-EgG4ZgxLSM-S89jRZPTuRbAdbzPNwA/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Dec 2023, [Cloud TPU Workshop](https://docs.google.com/document/d/1A7yr9tENhVGDNbLT63CW8Gfp-H_HqGS0znS-1O5VIgg/edit?resourcekey=0-fturMsILSJk9g63ypTzymQ&tab=t.0#heading=h.psrgpqgypqcy), Kakao Brain
+  * Topics: PyTorch/XLA, Running PT/XLA on Cloud TPU, AI Accelerator (Overview) 
 * [AI/ML Infra Workshop](https://docs.google.com/presentation/d/1SMDsJjJl2ksVL0SSfHhlp3b86kb0De0MDowoAObWFy4/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Nov 2023, LG Electronics
   * Topics: Cloud GPU, Cloud TPU, Self- vs. Fully-Managed Services, Consumption Models
 
