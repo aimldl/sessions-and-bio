@@ -97,7 +97,6 @@ Generative AI / LLMs (Large Language Models) / NLP (Natural Language Processing)
 * A Foundation in NLP: Milestones from Machine Learning to Large Language Models: [Part 1](https://docs.google.com/presentation/d/1OBeo9DV9utum4Gl1fjk4aMSD41zcmtc3FDiJKb5jcmc/edit?resourcekey=0-nbE71qhePSrl0fF-YimrCA&slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911) & [Part 2](https://docs.google.com/presentation/d/1djhABK-ONTVwzy7GTB3D2ez742VD1CVlCEwwXJHd2AE/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Dec 2024
 
 * [구글의 초거대 생성형 AI 동향 (Google's Giant Generative AI Trends)](https://docs.google.com/presentation/d/1TKIlr9t7vOYuBLFElfCUlf8Tfcusobp8e4ve-sJi6Zk/edit?resourcekey=0-iljyK4a9Yp33W3CfMmsM-A&slide=id.g2f1eae09b5f_0_2614#slide=id.g2f1eae09b5f_0_2614), Aug 2024, Supergiant AI Model for Manufactoring Robotics, Kyungnam University
-  * LLMs,
 
 Vertex AI NAS (Neural Architecture Search)
 * AI/ML Fundamentals to Demystify Vertex NAS: [Part 1](https://docs.google.com/presentation/d/12tGlDx2ELyfnk0SAdguRUK47r2DDjEQCVw1jk44Ov4Y/edit?slide=id.g134d20b2ce0_0_1214#slide=id.g134d20b2ce0_0_1214) & [Part 2](https://docs.google.com/presentation/d/1CbAuuiJsuSwwyEojJyN16a3WqHVCNZTTqZmTN7HGTJI/edit?resourcekey=0-zrg-m0AsDYDMGN4hmFeUgg&slide=id.g134d20b2ce0_0_1214#slide=id.g134d20b2ce0_0_1214), Jun 2022
