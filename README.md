@@ -87,16 +87,16 @@ Engaged diverse audiences (from academic scholars to industry leaders) across ma
 * Data Cloud & Applied ML Summit | [What’s New in AI? Update on TPU and Vertex AI](https://docs.google.com/presentation/d/1vanmR1c-fRIOcE4gn9rv-Or3oTRD5QkS9IQ0xwipxWQ/edit?slide=id.gce8c4a9192_1_6#slide=id.gce8c4a9192_1_6), Jun 2022
 
 ## Lectures & Workshops
-Generative AI
+Generative AI / NLP / Large Language Models
 
 * 🇯🇵 [生成AI ハンズオン・セミナー](https://docs.google.com/presentation/d/1THaij1sIK7NFXqE2d1XEIF-vF8n8a7n7hhcJec5QazM/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), 2025年10月, 北海道千歳高等学校,
   * Warning: Clicking the link will result in 403 ERROR. Simply copy and paste the link. 
   * https://www.chitose.hokkaido-c.ed.jp/blogs/blog_entries/view/31/5a010e16982ae5470e778ce0cb11e3bb?frame_id=39
   * [Googleエンジニアから学ぶ最前線！ 国際教養科「生成AI」特別講演・ワークショップ](https://www.chitose.hokkaido-c.ed.jp/blogs/blog_entries/view/31/5a010e16982ae5470e778ce0cb11e3bb?frame_id=39), Oct 2025, Chitose Highschool, Hokkaido, Japan
-  * [구글의 초거대 생성형 AI 동향 (Google's Giant Generative AI Trends)](https://docs.google.com/presentation/d/1TKIlr9t7vOYuBLFElfCUlf8Tfcusobp8e4ve-sJi6Zk/edit?resourcekey=0-iljyK4a9Yp33W3CfMmsM-A&slide=id.g2f1eae09b5f_0_2614#slide=id.g2f1eae09b5f_0_2614), Aug 2024, Supergiant AI Model for Manufactoring Robotics, Kyungnam University
 
-NLP & LLMs
 * A Foundation in NLP: Milestones from Machine Learning to Large Language Models: [Part 1](https://docs.google.com/presentation/d/1OBeo9DV9utum4Gl1fjk4aMSD41zcmtc3FDiJKb5jcmc/edit?resourcekey=0-nbE71qhePSrl0fF-YimrCA&slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911) & [Part 2](https://docs.google.com/presentation/d/1djhABK-ONTVwzy7GTB3D2ez742VD1CVlCEwwXJHd2AE/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Dec 2024
+
+* [구글의 초거대 생성형 AI 동향 (Google's Giant Generative AI Trends)](https://docs.google.com/presentation/d/1TKIlr9t7vOYuBLFElfCUlf8Tfcusobp8e4ve-sJi6Zk/edit?resourcekey=0-iljyK4a9Yp33W3CfMmsM-A&slide=id.g2f1eae09b5f_0_2614#slide=id.g2f1eae09b5f_0_2614), Aug 2024, Supergiant AI Model for Manufactoring Robotics, Kyungnam University
 
 Vertex AI NAS (Neural Architecture Search)
 * AI/ML Fundamentals to Demystify Vertex NAS: [Part 1](https://docs.google.com/presentation/d/12tGlDx2ELyfnk0SAdguRUK47r2DDjEQCVw1jk44Ov4Y/edit?slide=id.g134d20b2ce0_0_1214#slide=id.g134d20b2ce0_0_1214) & [Part 2](https://docs.google.com/presentation/d/1CbAuuiJsuSwwyEojJyN16a3WqHVCNZTTqZmTN7HGTJI/edit?resourcekey=0-zrg-m0AsDYDMGN4hmFeUgg&slide=id.g134d20b2ce0_0_1214#slide=id.g134d20b2ce0_0_1214), Jun 2022
