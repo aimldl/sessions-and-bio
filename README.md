@@ -108,8 +108,15 @@ Vertex AI NAS (Neural Architecture Search)
 Vertex AI
 * [Introduction to Vertex AI](https://docs.google.com/presentation/d/14lGtGlTe_R7fyyxWe8IoCkExhQJERPN8J_3nVnG8FmU/edit?resourcekey=0-wAN-zK5gOn7sclP0l0qxCg&slide=id.g13a430899de_7_3248#slide=id.g13a430899de_7_3248), Sep 2022
 
-Cloud TPU
+AI Accelerators (GPU & TPU)
+* [Beyond GPUs: Accelerating the Transition to TPUs](https://docs.google.com/presentation/d/1RTqBKnhaxjt4-EgG4ZgxLSM-S89jRZPTuRbAdbzPNwA/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Dec 2023, Kakao Brain
+* [AI/ML Infra Workshop](https://docs.google.com/presentation/d/1SMDsJjJl2ksVL0SSfHhlp3b86kb0De0MDowoAObWFy4/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Nov 2023, LG Electronics
+  * Topics: Cloud GPU, Cloud TPU, Self- vs. Fully-Managed Services, Consumption Models
+
 * [Accelerating Nature of Cloud TPU](https://docs.google.com/presentation/d/1cwF_RIKGT1yaR84g-qSNC74bR9QkZ8kP6dhM1gyGdho/edit?slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Sep 2022, Kakao Brain
+
+* [Cloud TPU Advanced Workshop](https://docs.google.com/presentation/d/1KiRzPVoP3EvfJ2xL5364XYH1VEv2ItXTk_vxi6Rr8XQ/edit?resourcekey=0-AhIk5HeQnT4K6l_I_SFq1A&slide=id.gb4a3fac3a8_7_1911#slide=id.gb4a3fac3a8_7_1911), Jun 2022, Daangn
+  * Topics: Cloud TPU, Performance Analysis Methodology (Input bound vs. TPU bound), TensorFlow: TPU Profiling & Optimization
 
 ## Academic Instruction & Hands-on Lab
 Taught for 5 semesters as a course instructor at University of Missouri (2006, 2007, 2010, 2011)
