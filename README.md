@@ -133,6 +133,10 @@ Taught for 5 semesters as a course instructor at University of Missouri (2006, 2
 ### Demos
 TODO: Relocated these notebooks to my Google Cloud repository
 
+
+Vertex AI Agent Engine
+- [Vertex AI의 Agent Engine을 사용해서 Agent 빌드 및 배포하기](https://github.com/aimldl/lotte/blob/main/vertex_ai-agent_engine-intro/korean-intro_agent_engine-v2.0.0.ipynb), 
+
 [Beyond Text: Exploring Multimodality of Gemini](https://github.com/aimldl/genai/tree/main/devfest-cloud-2024)
 * Explore the capabilities of Gemini 1.5 Pro using Vertex AI SDK, covering text translation (English-Korean), video insights, and multimodal inputs (text, image, video) .
   🇰🇷 멀티모달 방식의 이해를 위한 [Vertex AI Gemini 1.5 Pro 활용 가이드.ipynb](https://github.com/aimldl/genai/blob/main/devfest-cloud-2024/Vertex%20AI%20Gemini%201_5%20Pro%20%ED%99%9C%EC%9A%A9%20%EA%B0%80%EC%9D%B4%EB%93%9C.ipynb)
